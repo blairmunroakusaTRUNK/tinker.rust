@@ -1,0 +1,3 @@
+[submodule "rust.cellularautomata"]
+	path = rust.cellularautomata
+	url = https://github.com/blairmunroakusaBRANCH/rust.cellularautomata
